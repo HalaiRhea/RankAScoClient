@@ -42,7 +42,7 @@ const Home = () => {
                                 options: {},
                                 categorical: categoricalRome,
                                 numerical: numericalRome,
-                                filename: 'data/rome-aribnb-data_small_noHostSince.csv'
+                                filename: 'Rome'
                             }
                         }}>
                         <button className='button button-home'>Rome Dataset</button>

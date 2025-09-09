@@ -29,14 +29,15 @@ class DataLoading extends React.Component {
      */
 
     async fetchCsv() {
-        //The file name is passed via props
-        const response = await fetch(this.props.location.state.filename, {method: 'get', headers: {'content-type': 'text/csv;charset=UTF-8'}});
-        if(response.status !== 200) {
-            console.log("There is a problem with loading the CSV file", "Response code is:", response.status)
+        const response = await fetch(`http://localhost:5000/api/data/${this.props.location.state.filename}`);
+        if (!response.ok) {
+            console.log("Error loading CSV:", response.status);
+            return "";
         }
-        const result = await response.text()
-        return result
-    }
+    const csvText = await response.text();
+    console.log("First 500 chars of CSV:", csvText.slice(0, 500));
+    return csvText;
+}
 
     /**
      * Load all the data from a CSV file and parses all items as JSON
@@ -56,6 +57,7 @@ class DataLoading extends React.Component {
                 chunk: function (result, parser) {
                     //Since the data set is too large to be loaded in one run, the parser needs to pause and the data
                     //must be concatenated into one list
+                    console.log("Chunk parsed, rows:", result.data.length);
                     parser.pause();
                     dataList = dataList.concat(result.data)
                     parser.resume();
@@ -76,6 +78,8 @@ class DataLoading extends React.Component {
                 },
                 //When the whole file is loaded, the data list is updated
                 complete: function () {
+                    console.log('Parsing finished. Total rows:', dataList.length);
+                    console.log("First few rows:", dataList.slice(0, 5));
                     console.log('finished');
                     self.updateData(dataList);
                     self.setState({dataSet: dataList});
