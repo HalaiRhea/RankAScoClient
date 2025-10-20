@@ -11,6 +11,8 @@ import Weighting from "./components/Weighting";
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ScrollToTop from "./ScrollToTop";
 import FooterSticky from './components/FooterSticky';
+import Ranking from './components/Ranking';
+import ASFDashboard from './components/AsfDashboard';
 
 //This file serves as the entry point of the app
 //It contains all imports and the routing
@@ -33,6 +35,8 @@ class App extends React.Component {
                         <Route path="/selectedAttributesNumerical" component={NumericalASFInterface}/>
                         <Route path="/weighting" component={Weighting}/>
                         <Route path='/home' component={Home}/>
+                        <Route path='/ranking' component={Ranking}/>
+                        <Route path='/ASFDashboard' component={ASFDashboard}/>
                         <Route exact path="/">
                             <Redirect to="/home"/>
                         </Route>

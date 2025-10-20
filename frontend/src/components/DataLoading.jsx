@@ -134,7 +134,19 @@ class DataLoading extends React.Component {
             <>
                 <div className='largeHeader'><h1 style={{display: 'inline'}}>Data Loading</h1>
                     <div style={{display: 'inline', float: 'right', marginRight: '5%'}}>
-                        <button className='nextButton button' type="button" onClick={this.navigate}>Next</button>
+                        <button className='nextButton button' type="button" onClick={this.navigate}>Attribute</button>
+                    </div>
+                    <div style={{display: 'inline', float: 'right', marginRight: '5%'}}>
+                        <Link to={{
+                            pathname: '/ranking',
+                            state: {
+                                data: this.state.dataSet,
+                                categorical: this.props.location.state.categorical,
+                                numerical: this.props.location.state.numerical,
+                            }
+                        }}>
+                            <button className='nextButton button' type="button">Item</button>
+                        </Link>
                     </div>
                     <div style={{display: 'inline', float: 'right', marginRight: '5%'}}>
                         <Link to={{
