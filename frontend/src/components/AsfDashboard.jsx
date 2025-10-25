@@ -7,7 +7,7 @@ class ASFDashboard extends React.Component {
     constructor(props) {
         super(props);
 
-        const ranking = this.props.location.state?.ranking || [];
+        const ranking = (this.props.location.state?.ranking || []);
 
         this.state = {
             ranking: ranking,
@@ -168,6 +168,12 @@ class ASFDashboard extends React.Component {
         } else if (funcType === 'Discontinuous') {
             regressionLine = this.getNonContinuousRegressionLine(data);
         }
+        const colorMap = {
+            'Linear': '#ff7300',
+            'Non-linear': '#0077ff',
+            'Continuous': '#b300ff',
+            'Discontinuous': '#cc0000',
+        };
 
 
         return (
@@ -178,9 +184,10 @@ class ASFDashboard extends React.Component {
                         type="number"
                         dataKey="rank"
                         name="Rank"
-                        domain={[1, 5]}
+                        domain={[5, 1]}
                         tickCount={5}
-                        label={{ value: "Rank", position: "insideBottomRight", offset: -5 }}
+                        reversed={true}
+                        label={{ value: "Preference", position: "insideBottomRight", offset: -5 }}
                     />
                     <YAxis
                         type="number"
@@ -194,7 +201,7 @@ class ASFDashboard extends React.Component {
                         <Scatter
                             name="Regression"
                             data={regressionLine}
-                            line={{ stroke: funcType === 'Linear' ? '#ff7300' : '#00b300', strokeWidth: 2 }}
+                            line={{stroke: colorMap[funcType] || '#00b300',strokeWidth: 2,}}
                             fill="none"
                         />
                     )}
@@ -218,7 +225,7 @@ class ASFDashboard extends React.Component {
                 >
                     <h2 style={{ marginBottom: '1rem' }}>Ranking</h2>
                     <ol style={{ listStyleType: 'decimal', paddingLeft: '1.5rem' }}>
-                        {ranking.map((item, index) => (
+                        {ranking.reverse().map((item, index) => (
                             <li
                                 key={index}
                                 style={{
