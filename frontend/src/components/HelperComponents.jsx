@@ -143,7 +143,8 @@ export const TinyCurve = ({instructions}) => (
 //The following constants contain all attributes for the two data sets
 export const numericalRome = ['host_response_rate', 'accommodates', 'bathrooms', 'bedrooms', 'price', 'minimum_nights', 'maximum_nights', 'number_of_reviews', 'review_scores_rating', 'review_scores_cleanliness', 'review_scores_location']
 export const categoricalRome = ['neighbourhood', 'property_type', 'room_type']
-
+export const numericalStuttgart = ['baseRent','yearConstructed','livingSpace','noRooms','noParkSpaces','serviceCharge']
+export const categoricalStuttgart = ['regio2','gardenOrBalcony','liftAndFloor','condition']
 //-----------------------------------------------------------
 
 //The following constants are used for the symbols in the ranking overview

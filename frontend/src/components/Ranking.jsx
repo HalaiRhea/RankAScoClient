@@ -7,7 +7,7 @@ class Ranking extends React.Component {
     constructor(props) {
         super(props);
 
-        const allData = (this.props.location.state?.data || []).filter(item => item.id !== undefined);
+        const allData = (this.props.location.state?.data || []).filter(item => item.itemId !== undefined);
         const sampleSize = Math.min(5, allData.length);
         const shuffled = allData.sort(() => 0.5 - Math.random());
         const selected = shuffled.slice(0, sampleSize);
@@ -15,7 +15,7 @@ class Ranking extends React.Component {
         this.state = {
             items: selected.map((item, index) => ({
                 ...item,
-                key: `${item.id}-${index}`
+                key: `${item.itemId}-${index}`
             })),
         };
 
@@ -104,11 +104,11 @@ class Ranking extends React.Component {
                                                         ...provided.draggableProps.style,
                                                     }}
                                                 >
-                                                    <h3>ID: {item.id}</h3>
-                                                    <p><strong>Bedrooms:</strong> {item.bedrooms}</p>
-                                                    <p><strong>Bathrooms:</strong> {item.bathrooms}</p>
-                                                    <p><strong>Price:</strong> {item.price}</p>
-                                                    <p><strong>Review Score:</strong> {item.review_scores_rating}</p>
+                                                    <h3>ID: {item.itemId}</h3>
+                                                    <p><strong>Base Rent:</strong> {item.baseRent}</p>
+                                                    <p><strong>Year Constructed:</strong> {item.yearConstructed}</p>
+                                                    <p><strong>Living Space:</strong> {item.livingSpace}</p>
+                                                    <p><strong>Number of Rooms:</strong> {item.noRooms}</p>
                                                 </div>
                                             )}
                                         </Draggable>

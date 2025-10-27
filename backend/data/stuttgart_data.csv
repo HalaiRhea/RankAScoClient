@@ -1,0 +1,500 @@
+"itemId","regio2","gardenOrBalcony","baseRent","yearConstructed","livingSpace","liftAndFloor","noRooms","noParkSpaces","condition","serviceCharge","nrPicks"
+47026345,"Reutlingen_Kreis","garden",915,1937,102,"no lift + floor 0",4,1,"well_kept",140,6
+49758317,"Ludwigsburg_Kreis","balcony",535,2006,52,"no lift + floor 0",2.5,1,"mint_condition",130,7
+50424616,"Ravensburg_Kreis","both",919,2003,110,"lift + floor 0",4.5,2,"well_kept",230,6
+51443126,"Göppingen_Kreis","both",1750,1994,140,"no lift + floor 1",4,1,"fully_renovated",270,6
+54251197,"Reutlingen_Kreis","balcony",530,1987,55,"no lift + floor 1",2.5,1,"well_kept",150,7
+59752728,"Ostalbkreis","both",770,2000,89,"no lift + floor 0",3.5,1,"mint_condition",150,7
+60114670,"Reutlingen_Kreis","both",650,2000,67,"no lift + floor 1",3,1,"well_kept",130,7
+60157405,"Rems_Murr_Kreis","balcony",1400,2004,100,"lift + floor 3",3,1,"mint_condition",100,7
+63313248,"Freiburg_im_Breisgau","none",890,1981,92,"no lift + floor 3",3.5,1,"fully_renovated",170,7
+64481860,"Stuttgart","both",840,1965,72,"no lift + floor 1",2.5,1,"well_kept",200,6
+65066269,"Pforzheim","balcony",1050,2012,111,"lift + floor 2",4.5,1,"mint_condition",260,7
+66133067,"Breisgau_Hochschwarzwald_Kreis","balcony",1300,2012,160,"no lift + floor 1",4.5,1,"mint_condition",200,7
+66612403,"Ravensburg_Kreis","balcony",990,1993,110,"no lift + floor 2",3.5,1,"mint_condition",210,7
+67148622,"Konstanz_Kreis","balcony",635,2013,72,"no lift + floor 0",3,1,"mint_condition",160,6
+68298937,"Enzkreis","both",1450,2006,190,"no lift + floor 2",4.5,2,"mint_condition",250,7
+69547634,"Ortenaukreis","balcony",670,1966,76,"lift + floor 8",3,1,"well_kept",200,6
+70686667,"Schwäbisch_Hall_Kreis","balcony",1150,2011,135,"lift + floor 2",3.5,2,"mint_condition",250,7
+71244944,"Göppingen_Kreis","balcony",490,1993,49,"no lift + floor 1",1.5,1,"fully_renovated",130,7
+71801060,"Ravensburg_Kreis","balcony",1200,2005,154,"no lift + floor 2",5.5,1,"mint_condition",190,7
+72592550,"Rems_Murr_Kreis","both",1387.2,2006,136,"no lift + floor 2",4,3,"mint_condition",300,7
+73786979,"Esslingen_Kreis","both",1800,1985,260,"no lift + floor 0",8,1,"well_kept",80,6
+74286482,"Konstanz_Kreis","balcony",700,1994,80,"no lift + floor 0",4,0,"well_kept",90,7
+75295992,"Ostalbkreis","balcony",600,2000,74,"no lift + floor 2",3.5,1,"well_kept",150,7
+75350834,"Heidelberg","balcony",1180,1997,114,"no lift + floor 1",4.5,2,"well_kept",250,7
+77839073,"Ludwigsburg_Kreis","balcony",470,1985,57,"no lift + floor 1",2,1,"well_kept",100,7
+78659446,"Pforzheim","both",1230,2014,141,"lift + floor 1",4,1,"mint_condition",220,7
+79165928,"Waldshut_Kreis","balcony",930.2,1910,97.8,"no lift + floor 1",3,1,"well_kept",140,7
+81843209,"Enzkreis","both",994,2002,142.16,"no lift + floor 2",4.5,1,"mint_condition",300,7
+82293252,"Rems_Murr_Kreis","both",1340,2009,127,"no lift + floor 2",3.5,1,"fully_renovated",150,6
+82393787,"Enzkreis","balcony",1400,2020,125,"lift + floor 2",5,1,"first_time_use",330,7
+82463914,"Ludwigsburg_Kreis","none",670,1983,67.7,"no lift + floor 0",2.5,1,"well_kept",250,6
+82615230,"Bodenseekreis","none",540,2009,57,"lift + floor 1",2,1,"mint_condition",140,7
+83689389,"Ostalbkreis","balcony",825,2014,97.01,"lift + floor 1",3.5,2,"mint_condition",220,7
+84698175,"Ortenaukreis","balcony",800,2011,75,"lift + floor 2",2,1,"mint_condition",135,7
+85556906,"Ravensburg_Kreis","balcony",590,1958,48,"no lift + floor 0",1.5,0,"mint_condition",100,7
+86918096,"Ravensburg_Kreis","balcony",570,1995,60,"no lift + floor 1",2.5,1,"well_kept",190,7
+87101550,"Breisgau_Hochschwarzwald_Kreis","balcony",820,2008,90,"no lift + floor 1",2,1,"mint_condition",120,6
+87272116,"Göppingen_Kreis","balcony",749,2016,84,"no lift + floor 0",3,1,"mint_condition",150,7
+87344299,"Waldshut_Kreis","balcony",580,1957,55,"no lift + floor 2",3,1,"well_kept",120,7
+87841578,"Esslingen_Kreis","garden",560,1750,58,"no lift + floor 1",3,1,"well_kept",160,7
+88160470,"Schwarzwald_Baar_Kreis","none",500,1951,63,"no lift + floor 3",3,1,"well_kept",125,6
+88183431,"Ortenaukreis","balcony",730,2016,64,"lift + floor 2",2,1,"mint_condition",180,7
+88214421,"Esslingen_Kreis","both",1190,1986,103.17,"lift + floor 3",3.5,1,"fully_renovated",180,7
+88928088,"Stuttgart","both",1950,1957,135,"no lift + floor 4",4,1,"fully_renovated",150,7
+88984062,"Stuttgart","balcony",900,2006,58.5,"lift + floor 0",2,1,"mint_condition",160,7
+89109755,"Waldshut_Kreis","both",645,2016,66,"no lift + floor 1",3,1,"mint_condition",110,7
+89255524,"Freiburg_im_Breisgau","balcony",1300,2018,111,"lift + floor 2",4,1,"mint_condition",350,7
+89595597,"Breisgau_Hochschwarzwald_Kreis","balcony",1550,2016,130,"no lift + floor 0",4,1,"mint_condition",150,7
+89899348,"Enzkreis","balcony",475,1995,60,"no lift + floor 2",2,1,"well_kept",135,7
+89995728,"Göppingen_Kreis","balcony",570,2017,55,"lift + floor 2",2,1,"mint_condition",150,6
+90560368,"Göppingen_Kreis","both",1200,1978,135,"no lift + floor 0",4.5,1,"well_kept",320,7
+90672029,"Bodenseekreis","balcony",1315,2016,88.35,"lift + floor 4",4,1,"mint_condition",323,7
+91040695,"Stuttgart","balcony",2170,1965,172.34,"lift + floor 2",4.5,1,"well_kept",400,7
+91086997,"Heidelberg","balcony",995,2016,77.87,"lift + floor 2",2,1,"mint_condition",220,6
+91455953,"Bodenseekreis","balcony",1000,1972,97,"lift + floor 4",3.5,1,"fully_renovated",200,6
+91994318,"Schwarzwald_Baar_Kreis","balcony",690,1993,99,"no lift + floor 2",3.5,1,"mint_condition",220,6
+92274936,"Waldshut_Kreis","balcony",800,2017,81.62,"no lift + floor 0",3,1,"mint_condition",165,7
+92436233,"Rems_Murr_Kreis","both",900,2007,98.5,"no lift + floor 1",4.5,1,"well_kept",70,6
+92711603,"Waldshut_Kreis","balcony",1260,2013,183.59,"lift + floor 4",4.5,2,"mint_condition",360,6
+93110987,"Stuttgart","both",1690,2007,99.6,"lift + floor 0",2,1,"well_kept",340,7
+93342028,"Stuttgart","balcony",1200,1930,86,"no lift + floor 1",3,1,"well_kept",290,7
+93518750,"Bodenseekreis","balcony",1850,2017,137,"lift + floor 1",3,2,"mint_condition",230,7
+94404915,"Waldshut_Kreis","balcony",717,2015,70.56,"lift + floor 0",2.5,1,"mint_condition",180,7
+94807366,"Schwarzwald_Baar_Kreis","balcony",1500,2017,75,"no lift + floor 1",2,1,"mint_condition",300,6
+95010152,"Rems_Murr_Kreis","both",1910,2017,173,"no lift + floor 0",6,1,"mint_condition",265,7
+96007990,"Rems_Murr_Kreis","balcony",1450,2006,140,"lift + floor 4",3,1,"mint_condition",350,7
+96038893,"Reutlingen_Kreis","both",1550,2016,149,"no lift + floor 0",4,2,"mint_condition",250,7
+98942895,"Esslingen_Kreis","balcony",600,1984,52,"no lift + floor 1",2.5,1,"well_kept",150,7
+99185180,"Schwäbisch_Hall_Kreis","both",1250,2019,140,"no lift + floor 1",5,1,"first_time_use",150,6
+99346915,"Schwäbisch_Hall_Kreis","balcony",890,2017,120,"no lift + floor 2",4.5,2,"mint_condition",200,7
+100120418,"Pforzheim","balcony",1150,2012,127,"no lift + floor 2",4,1,"mint_condition",250,7
+100640026,"Ortenaukreis","balcony",990,2018,98.11,"lift + floor 4",3,2,"mint_condition",200,7
+100640440,"Schwäbisch_Hall_Kreis","balcony",495,1987,78,"no lift + floor 0",2,1,"fully_renovated",150,7
+101038277,"Waldshut_Kreis","balcony",720,1966,96,"no lift + floor 1",5,1,"fully_renovated",140,7
+101173351,"Freiburg_im_Breisgau","balcony",2000,1986,153.08,"no lift + floor 2",3.5,2,"well_kept",300,6
+101194234,"Ludwigsburg_Kreis","both",1110,2018,66,"lift + floor 2",2,1,"mint_condition",180,7
+101392463,"Ludwigsburg_Kreis","balcony",790,1996,80,"no lift + floor 3",3.5,1,"well_kept",155,7
+101578747,"Ostalbkreis","balcony",500,1992,59.22,"lift + floor 0",2,1,"well_kept",215,6
+101854055,"Reutlingen_Kreis","none",700,1990,78,"no lift + floor 4",2.5,1,"mint_condition",150,6
+101867117,"Heidelberg","both",1520,2005,121.81,"no lift + floor 2",5,1,"mint_condition",300,7
+102071533,"Enzkreis","balcony",800,1992,80,"no lift + floor 3",3,1,"well_kept",200,6
+102441176,"Freiburg_im_Breisgau","balcony",1315,2018,76,"lift + floor 6",2,1,"mint_condition",180,7
+102450158,"Ravensburg_Kreis","none",600,2013,68,"no lift + floor 1",2,1,"mint_condition",15,6
+102807331,"Esslingen_Kreis","balcony",970,1976,122,"lift + floor 7",4,1,"well_kept",170,7
+103150757,"Schwäbisch_Hall_Kreis","balcony",640,2016,62.51,"lift + floor 2",2,1,"mint_condition",140,7
+103182017,"Heidelberg","both",1000,2014,76.61,"lift + floor 2",3,1,"mint_condition",200,7
+103367914,"Freiburg_im_Breisgau","balcony",895,2003,60,"lift + floor 4",2,1,"fully_renovated",170,6
+103586585,"Waldshut_Kreis","both",1078,2018,98.08,"no lift + floor 2",3,2,"first_time_use",80,6
+103717779,"Waldshut_Kreis","both",1165,2016,121,"no lift + floor 3",4.5,1,"mint_condition",245,7
+103871023,"Ortenaukreis","balcony",1080,2003,129,"no lift + floor 2",4,2,"well_kept",220,7
+104314826,"Waldshut_Kreis","balcony",950,2018,80.2,"lift + floor 3",2.5,1,"first_time_use",45,6
+104424724,"Ravensburg_Kreis","both",850,1977,120,"no lift + floor 1",2.5,1,"mint_condition",175,7
+104483159,"Pforzheim","balcony",675,1995,71,"no lift + floor 3",2.5,1,"well_kept",140,7
+104597523,"Stuttgart","both",1880,2017,83,"lift + floor 4",3,1,"mint_condition",250,7
+104613208,"Rems_Murr_Kreis","balcony",590,1982,46,"no lift + floor 3",2,1,"mint_condition",120,7
+104620044,"Stuttgart","balcony",1695,2015,117,"lift + floor 5",2.5,1,"mint_condition",340,7
+104810419,"Pforzheim","both",1150,1998,122,"no lift + floor 2",3.5,1,"well_kept",235,6
+104837352,"Ravensburg_Kreis","both",890,2003,120,"no lift + floor 1",5,1,"well_kept",190,7
+104857828,"Reutlingen_Kreis","both",1680,2016,137,"lift + floor 3",4.5,2,"mint_condition",280,6
+104897865,"Heidelberg","balcony",1650,1965,135,"no lift + floor 4",4.5,1,"fully_renovated",350,6
+104978486,"Schwarzwald_Baar_Kreis","balcony",450,1995,60,"no lift + floor 1",2,1,"well_kept",100,7
+104988703,"Schwarzwald_Baar_Kreis","balcony",850,2005,72,"lift + floor 2",3.5,2,"mint_condition",180,7
+105083661,"Rems_Murr_Kreis","both",1140,1974,107,"no lift + floor 2",4.5,1,"fully_renovated",250,7
+105135322,"Bodenseekreis","both",1150,1977,95,"lift + floor 4",4,1,"refurbished",150,7
+105499351,"Bodenseekreis","none",898,2018,94.59,"lift + floor 2",2.5,1,"first_time_use",179,7
+105560489,"Heidelberg","balcony",1040,1992,57,"lift + floor 2",2,1,"refurbished",300,6
+105773119,"Rems_Murr_Kreis","balcony",1050,2008,115,"lift + floor 3",3.5,1,"well_kept",300,7
+105777683,"Stuttgart","both",1540,2008,110,"lift + floor 0",4,1,"well_kept",300,7
+105962749,"Ravensburg_Kreis","balcony",790,2018,90,"no lift + floor 2",3,1,"first_time_use",160,7
+106194343,"Stuttgart","balcony",1999,2015,118,"lift + floor 6",3,1,"mint_condition",365,7
+106195739,"Stuttgart","balcony",1695,2015,119,"lift + floor 4",2.5,1,"mint_condition",350,7
+106262348,"Waldshut_Kreis","balcony",1390,2014,188,"lift + floor 3",5,2,"well_kept",290,7
+106274966,"Göppingen_Kreis","balcony",1100,2017,116.3,"lift + floor 2",4.5,1,"first_time_use",270,7
+106300105,"Göppingen_Kreis","balcony",1100,2018,116.3,"lift + floor 3",4.5,1,"first_time_use",270,6
+106321727,"Schwarzwald_Baar_Kreis","balcony",1100,1972,128,"no lift + floor 4",3,1,"well_kept",260,7
+106343286,"Heidelberg","garden",1440,1998,144,"no lift + floor 1",5,2,"mint_condition",300,6
+106349539,"Ludwigsburg_Kreis","balcony",590,1991,49.8,"no lift + floor 1",2,1,"well_kept",120,7
+106379420,"Ortenaukreis","balcony",715,2018,70,"no lift + floor 2",2,1,"first_time_use",155,6
+106401841,"Schwarzwald_Baar_Kreis","balcony",770,2018,56,"lift + floor 1",3,2,"first_time_use",150,7
+106430220,"Ostalbkreis","balcony",920,2018,84.7,"lift + floor 1",3.5,1,"first_time_use",250,7
+106468976,"Konstanz_Kreis","balcony",1790,2012,123,"lift + floor 1",3.5,1,"mint_condition",400,7
+106481917,"Stuttgart","balcony",1390,2010,101.32,"lift + floor 1",3,1,"mint_condition",300,6
+106490477,"Ostalbkreis","balcony",1310,2018,118.9,"lift + floor 3",4.5,1,"first_time_use",350,7
+106495665,"Reutlingen_Kreis","none",500,1984,45,"no lift + floor 0",2,1,"fully_renovated",150,7
+106571767,"Pforzheim","both",895,2005,114.75,"no lift + floor 3",4,1,"well_kept",140,6
+106639575,"Stuttgart","balcony",1326,1991,102,"no lift + floor 2",4,2,"well_kept",250,6
+106657639,"Ludwigsburg_Kreis","both",1690,1984,163,"no lift + floor 1",5,1,"well_kept",270,7
+106657889,"Stuttgart","balcony",1260,2013,65,"lift + floor 4",2,1,"mint_condition",280,6
+106713932,"Rems_Murr_Kreis","both",1350,2017,140,"lift + floor 4",4.5,1,"first_time_use",200,7
+106842920,"Heidelberg","none",1720,1982,110,"lift + floor 5",4,1,"well_kept",250,7
+106862314,"Heidelberg","balcony",860,1983,85,"no lift + floor 1",2.5,1,"well_kept",200,6
+106864949,"Freiburg_im_Breisgau","balcony",1700,2016,132,"lift + floor 1",4,2,"first_time_use",330,7
+106894628,"Ortenaukreis","balcony",950,2000,150,"no lift + floor 1",3,0,"well_kept",250,7
+106899845,"Stuttgart","both",800,1993,49,"no lift + floor 0",2,1,"well_kept",150,6
+106921516,"Esslingen_Kreis","both",1250,2006,95,"lift + floor 1",4.5,1,"mint_condition",220,7
+106922601,"Rems_Murr_Kreis","balcony",1835,2018,130.95,"lift + floor 3",4,2,"first_time_use",250,7
+106942989,"Bodenseekreis","balcony",720,1986,85.7,"no lift + floor 2",3,1,"well_kept",170,7
+106945381,"Pforzheim","balcony",1050,1990,143,"no lift + floor 3",4,2,"well_kept",300,7
+106957405,"Schwäbisch_Hall_Kreis","none",500,2013,80,"no lift + floor 2",3,1,"first_time_use",130,7
+106974937,"Konstanz_Kreis","balcony",1700,1969,127,"lift + floor 2",5,1,"fully_renovated",320,7
+106980808,"Schwäbisch_Hall_Kreis","balcony",950,2018,117.43,"no lift + floor 1",5,2,"first_time_use",100,6
+107001447,"Konstanz_Kreis","balcony",770,2005,76,"lift + floor 1",3.5,1,"mint_condition",270,7
+107008971,"Bodenseekreis","balcony",1195,2015,98.3,"lift + floor 4",2,1,"mint_condition",230,7
+107032159,"Schwarzwald_Baar_Kreis","both",700,1989,91,"no lift + floor 1",3,1,"well_kept",200,6
+107068774,"Göppingen_Kreis","both",1200,1998,145,"no lift + floor 3",5,1,"well_kept",280,7
+107076067,"Enzkreis","both",1497.23,2018,159.28,"no lift + floor 1",5.5,1,"mint_condition",250,7
+107082132,"Ludwigsburg_Kreis","balcony",1840,2012,147,"lift + floor 4",4,2,"mint_condition",325,7
+107086122,"Esslingen_Kreis","both",1680,2008,88,"lift + floor 0",3.5,2,"well_kept",280,7
+107169770,"Breisgau_Hochschwarzwald_Kreis","balcony",1265,2013,98.76,"lift + floor 0",4,1,"well_kept",275,6
+107269331,"Breisgau_Hochschwarzwald_Kreis","both",1102,2018,116,"no lift + floor 1",4,1,"first_time_use",250,7
+107280018,"Schwarzwald_Baar_Kreis","balcony",600,1970,105,"lift + floor 5",4.5,1,"well_kept",190,7
+107290589,"Esslingen_Kreis","balcony",1220,2016,100.8,"lift + floor 2",3,1,"mint_condition",250,6
+107296386,"Schwarzwald_Baar_Kreis","both",620,1997,78,"no lift + floor 0",3,1,"mint_condition",180,7
+107298596,"Esslingen_Kreis","balcony",680,1955,87,"no lift + floor 2",3.5,1,"well_kept",70,7
+107300102,"Waldshut_Kreis","balcony",600,2013,62.5,"lift + floor 3",2.5,1,"mint_condition",140,7
+107302635,"Esslingen_Kreis","none",750,2001,84,"no lift + floor 0",3,1,"well_kept",230,6
+107308419,"Stuttgart","both",1200,2018,54,"lift + floor 3",2,1,"first_time_use",160,6
+107322000,"Heidelberg","balcony",1051,2012,88,"no lift + floor 2",2,1,"mint_condition",201,7
+107322389,"Reutlingen_Kreis","balcony",870,2018,71.13,"lift + floor 1",2,1,"mint_condition",180,7
+107324917,"Pforzheim","balcony",1300,2009,175,"no lift + floor 2",5,1,"mint_condition",220,6
+107329486,"Freiburg_im_Breisgau","balcony",1020,1992,84,"no lift + floor 2",3,1,"well_kept",215,6
+107340916,"Freiburg_im_Breisgau","balcony",970,2018,66.9,"lift + floor 2",2,1,"first_time_use",145,6
+107351807,"Schwäbisch_Hall_Kreis","balcony",650,1989,79,"no lift + floor 2",3.5,1,"fully_renovated",150,6
+107364554,"Bodenseekreis","balcony",890,2001,80,"no lift + floor 2",3,1,"well_kept",130,6
+107367397,"Rems_Murr_Kreis","balcony",1400,2004,120,"no lift + floor 2",4.5,1,"well_kept",220,7
+107372217,"Enzkreis","balcony",650,1982,107,"lift + floor 1",3.5,1,"well_kept",170,6
+107372519,"Ludwigsburg_Kreis","balcony",790,1992,76.9,"no lift + floor 2",3.5,1,"well_kept",130,7
+107373115,"Ortenaukreis","both",700,1965,127,"no lift + floor 2",5,1,"well_kept",220,7
+107378913,"Stuttgart","balcony",1400,1971,128,"no lift + floor 3",4.5,1,"well_kept",275,7
+107379265,"Reutlingen_Kreis","both",700,2018,70,"lift + floor 0",3,1,"first_time_use",250,7
+107379869,"Waldshut_Kreis","balcony",940,1973,90,"no lift + floor 1",4,1,"refurbished",200,6
+107396948,"Enzkreis","both",880,2018,63,"no lift + floor 2",2,1,"mint_condition",140,6
+107801877,"Stuttgart","both",850,1990,60,"no lift + floor 0",2,1,"well_kept",110,7
+107840689,"Ortenaukreis","balcony",865,2018,103,"lift + floor 0",3,1,"well_kept",255,7
+108022000,"Ostalbkreis","balcony",440,1995,61,"no lift + floor 1",2,1,"well_kept",150,6
+108098857,"Stuttgart","balcony",940,1953,54,"no lift + floor 4",2,1,"well_kept",90,7
+108181893,"Schwäbisch_Hall_Kreis","both",1150,2018,121,"no lift + floor 1",3.5,2,"first_time_use",242,7
+108252372,"Esslingen_Kreis","balcony",1730,1978,140,"lift + floor 3",4,2,"well_kept",350,7
+108601636,"Heidelberg","balcony",1150,1989,114.5,"lift + floor 2",3.5,1,"well_kept",160,7
+108666148,"Enzkreis","both",940,2016,105,"no lift + floor 0",3,1,"mint_condition",130,7
+108758196,"Ravensburg_Kreis","balcony",700,2017,70,"lift + floor 0",2,1,"mint_condition",141,6
+108774299,"Schwäbisch_Hall_Kreis","balcony",1121,2019,118,"no lift + floor 2",3.5,2,"first_time_use",236,7
+109139359,"Ostalbkreis","balcony",950,1970,100,"no lift + floor 0",3,1,"fully_renovated",210,7
+109342397,"Schwäbisch_Hall_Kreis","both",850,1991,134,"no lift + floor 1",4,1,"well_kept",160,7
+109372079,"Enzkreis","balcony",750,1973,98,"lift + floor 2",3,1,"well_kept",200,6
+109419241,"Schwäbisch_Hall_Kreis","balcony",720,2019,85,"lift + floor 1",2,1,"first_time_use",152,7
+109507258,"Waldshut_Kreis","balcony",1130,2017,95,"lift + floor 4",3.5,1,"first_time_use",285,7
+109540888,"Breisgau_Hochschwarzwald_Kreis","balcony",1080,2019,90,"lift + floor 3",3,1,"first_time_use",180,7
+109626709,"Schwäbisch_Hall_Kreis","both",720,2008,75,"lift + floor 0",3,1,"mint_condition",180,7
+109725524,"Reutlingen_Kreis","none",1150,1979,124,"no lift + floor 2",4,3,"first_time_use",250,7
+109743827,"Waldshut_Kreis","balcony",1100,1903,130,"no lift + floor 4",4,1,"fully_renovated",270,7
+109819227,"Konstanz_Kreis","balcony",1248,1983,80,"lift + floor 1",3.5,1,"fully_renovated",200,7
+109863374,"Breisgau_Hochschwarzwald_Kreis","balcony",830,1980,63.44,"no lift + floor 3",3,1,"well_kept",100,6
+109895946,"Rems_Murr_Kreis","balcony",1850,1973,200,"lift + floor 4",3.5,2,"well_kept",300,6
+109960432,"Ludwigsburg_Kreis","balcony",900,1994,57.24,"no lift + floor 2",2,1,"mint_condition",120,7
+110074037,"Stuttgart","balcony",950,1800,72,"no lift + floor 1",2,1,"well_kept",175,6
+110091157,"Reutlingen_Kreis","both",980,2017,93,"no lift + floor 0",4.5,1,"mint_condition",280,7
+110186595,"Breisgau_Hochschwarzwald_Kreis","both",1200,1973,108,"no lift + floor 2",4,1,"fully_renovated",250,7
+110211232,"Schwäbisch_Hall_Kreis","garden",779,2019,82,"no lift + floor 2",3,2,"first_time_use",120,7
+110235698,"Stuttgart","both",850,1993,69,"no lift + floor 1",1.5,1,"well_kept",150,7
+110271709,"Stuttgart","balcony",2150,1880,129,"no lift + floor 4",4,1,"well_kept",350,7
+110307393,"Ludwigsburg_Kreis","balcony",1700,2019,113.84,"lift + floor 1",3.5,1,"first_time_use",290,6
+110327455,"Reutlingen_Kreis","balcony",1099,1994,95,"no lift + floor 2",3,1,"well_kept",200,7
+110381917,"Stuttgart","balcony",2036,2017,120,"lift + floor 6",4,1,"well_kept",120,6
+110383287,"Schwäbisch_Hall_Kreis","both",1150,2019,116.18,"lift + floor 3",3,2,"first_time_use",300,7
+110384556,"Ortenaukreis","balcony",880,1993,147,"lift + floor 4",4,1,"well_kept",275,6
+110459310,"Stuttgart","none",1900,1910,200,"no lift + floor 4",4.5,2,"refurbished",470,7
+110459403,"Breisgau_Hochschwarzwald_Kreis","balcony",1115,1900,124,"no lift + floor 2",4,2,"well_kept",200,7
+110485434,"Schwäbisch_Hall_Kreis","balcony",766,2019,90,"lift + floor 4",2,1,"first_time_use",162,7
+110509110,"Waldshut_Kreis","both",1050,2019,86.7,"lift + floor 1",3,1,"first_time_use",240,7
+110516823,"Ostalbkreis","none",470,1975,62,"no lift + floor 3",2,1,"well_kept",125,6
+110545909,"Ludwigsburg_Kreis","both",1290,2018,115,"lift + floor 3",4.5,1,"mint_condition",230,6
+110550148,"Konstanz_Kreis","both",882,2009,98,"lift + floor 0",3.5,1,"fully_renovated",250,7
+110565942,"Schwarzwald_Baar_Kreis","both",1250,2019,126,"lift + floor 2",4,2,"first_time_use",210,7
+110578703,"Reutlingen_Kreis","both",766,2018,62,"lift + floor 1",2,1,"mint_condition",227,7
+110579409,"Ortenaukreis","both",900,1980,98,"no lift + floor 2",4.5,2,"fully_renovated",200,6
+110595201,"Rastatt_Kreis","balcony",790.5,1880,93,"no lift + floor 2",2,1,"refurbished",186,7
+110650495,"Ravensburg_Kreis","balcony",1350,1964,126,"no lift + floor 2",4.5,1,"fully_renovated",250,6
+110678799,"Reutlingen_Kreis","balcony",1290,1984,128,"no lift + floor 4",4,2,"well_kept",290,6
+110792032,"Pforzheim","balcony",650,1999,75,"no lift + floor 4",3,1,"well_kept",200,7
+110856202,"Pforzheim","balcony",1300,1967,142,"lift + floor 4",5,1,"well_kept",532.75,7
+110881816,"Stuttgart","balcony",1760,1911,105,"no lift + floor 5",3.5,1,"well_kept",185,6
+110884561,"Pforzheim","both",920,1995,92,"no lift + floor 0",2,2,"well_kept",220,6
+110910281,"Bodenseekreis","balcony",1900,2014,152.81,"lift + floor 2",3.5,2,"mint_condition",250,7
+110953644,"Freiburg_im_Breisgau","balcony",1630,2004,167,"no lift + floor 2",4.5,1,"fully_renovated",250,7
+111093599,"Enzkreis","both",995,1965,107.35,"no lift + floor 1",3,1,"well_kept",98,6
+111125075,"Heidelberg","balcony",465,1997,47.5,"no lift + floor 2",2,1,"well_kept",100,7
+111160080,"Stuttgart","balcony",1550,1910,80,"no lift + floor 5",2.5,0,"mint_condition",70,6
+111161515,"Waldshut_Kreis","balcony",1850,2019,152,"lift + floor 4",5.5,1,"first_time_use",350,7
+111163272,"Konstanz_Kreis","balcony",820,1992,45,"no lift + floor 2",1.5,1,"fully_renovated",130,6
+111164231,"Ostalbkreis","balcony",740,1999,105,"no lift + floor 2",3.5,1,"mint_condition",200,6
+111209353,"Reutlingen_Kreis","both",890,2019,80,"no lift + floor 1",3,1,"first_time_use",100,7
+111213508,"Ravensburg_Kreis","both",650,1983,80,"no lift + floor 1",2.5,1,"fully_renovated",150,7
+111215898,"Freiburg_im_Breisgau","balcony",890,2012,70,"lift + floor 2",2,1,"mint_condition",140,7
+111217027,"Stuttgart","balcony",2131,2015,118,"lift + floor 6",2,1,"mint_condition",230,7
+111218020,"Waldshut_Kreis","balcony",1200,1971,130,"lift + floor 5",3.5,2,"refurbished",300,7
+111220172,"Rems_Murr_Kreis","both",750,1993,86,"no lift + floor 1",4,1,"well_kept",175,7
+111225428,"Göppingen_Kreis","balcony",940,2015,100,"lift + floor 1",3,1,"mint_condition",200,7
+111229528,"Stuttgart","balcony",1800,1990,106,"no lift + floor 2",3.5,1,"mint_condition",345,7
+111230417,"Stuttgart","garden",900,1953,60,"no lift + floor 0",3,1,"fully_renovated",195,6
+111233611,"Bodenseekreis","both",760,2016,63,"lift + floor 0",2,1,"mint_condition",150,6
+111238689,"Ortenaukreis","garden",1000,1935,125,"no lift + floor 1",4,1,"fully_renovated",220,6
+111240158,"Enzkreis","balcony",750,1998,98,"no lift + floor 2",2.5,1,"well_kept",100,7
+111240465,"Stuttgart","balcony",1350,2007,98,"lift + floor 1",3,1,"well_kept",220,6
+111255600,"Rems_Murr_Kreis","balcony",993,2013,102,"lift + floor 1",5,1,"mint_condition",252,7
+111264383,"Ostalbkreis","balcony",720,2016,84,"no lift + floor 0",3.5,1,"mint_condition",150,7
+111264499,"Ludwigsburg_Kreis","balcony",1380,2018,146,"lift + floor 3",6,1,"mint_condition",290,6
+111269293,"Reutlingen_Kreis","none",775,1970,103,"no lift + floor 2",4,1,"well_kept",170,6
+111275936,"Göppingen_Kreis","balcony",750,2019,90,"lift + floor 2",2.5,1,"well_kept",200,7
+111276454,"Freiburg_im_Breisgau","balcony",850,1985,80,"lift + floor 0",3,1,"fully_renovated",200,6
+111280574,"Pforzheim","balcony",560,1896,64,"no lift + floor 2",2,1,"refurbished",180,6
+111319328,"Ludwigsburg_Kreis","none",700,1963,72,"no lift + floor 2",3,1,"mint_condition",200,7
+111324318,"Ludwigsburg_Kreis","balcony",950,1983,84,"lift + floor 0",3.5,1,"well_kept",340,7
+111326609,"Heidelberg","balcony",1280,2013,101.2,"lift + floor 3",4,1,"well_kept",240,7
+111327832,"Ludwigsburg_Kreis","balcony",750,1985,65,"no lift + floor 4",2.5,1,"refurbished",125,7
+111329128,"Göppingen_Kreis","balcony",570,1905,67,"no lift + floor 2",2,1,"well_kept",100,7
+111329272,"Enzkreis","balcony",1010,2019,112,"lift + floor 2",4,1,"first_time_use",280,7
+111331669,"Ravensburg_Kreis","balcony",470,1991,54,"lift + floor 2",2,1,"fully_renovated",120,7
+111338571,"Ravensburg_Kreis","both",800,1970,106,"no lift + floor 1",4,2,"fully_renovated",250,7
+111338945,"Enzkreis","balcony",580,1994,62,"no lift + floor 1",2,1,"well_kept",140,7
+111351400,"Enzkreis","balcony",700,1973,75,"no lift + floor 3",3.5,1,"fully_renovated",125,7
+111352523,"Ravensburg_Kreis","both",1200,2000,126,"no lift + floor 1",4,4,"well_kept",350,7
+111359043,"Ostalbkreis","both",650,1953,85,"no lift + floor 0",4,1,"well_kept",150,7
+111370005,"Ortenaukreis","balcony",900,2019,96,"lift + floor 1",3,1,"first_time_use",200,7
+111370654,"Enzkreis","none",520,1992,64,"no lift + floor 3",3,1,"well_kept",50,7
+111374883,"Heidelberg","none",715,1730,45,"lift + floor 1",2,0,"mint_condition",180,7
+111390357,"Schwäbisch_Hall_Kreis","both",580,1996,80,"no lift + floor 3",3,1,"well_kept",150,6
+111395672,"Göppingen_Kreis","balcony",1000,1972,120,"no lift + floor 3",5,1,"well_kept",220,7
+111397172,"Ravensburg_Kreis","balcony",750,2016,73.5,"lift + floor 1",2,1,"mint_condition",220,6
+111398936,"Heidelberg","none",780,1730,48,"lift + floor 1",2,0,"mint_condition",192,6
+111401798,"Freiburg_im_Breisgau","both",900,1978,57.2,"lift + floor 4",2,1,"refurbished",170,6
+111406779,"Reutlingen_Kreis","balcony",600,1983,50,"no lift + floor 1",2,1,"well_kept",120,7
+111411314,"Stuttgart","none",990,1980,72,"no lift + floor 1",3.5,1,"refurbished",239,6
+111413223,"Esslingen_Kreis","balcony",593,1955,56,"no lift + floor 0",2,0,"refurbished",60,7
+111420438,"Reutlingen_Kreis","balcony",970,2016,84.7,"lift + floor 2",2,1,"mint_condition",215,6
+111424770,"Konstanz_Kreis","balcony",1560,2018,92,"lift + floor 2",4,2,"mint_condition",240,7
+111425346,"Esslingen_Kreis","balcony",620,1954,64,"no lift + floor 3",3,0,"well_kept",40,7
+111489942,"Ostalbkreis","balcony",1250,2018,100,"lift + floor 1",3,2,"first_time_use",230,7
+111774184,"Freiburg_im_Breisgau","balcony",950,2019,56.05,"lift + floor 1",2,1,"mint_condition",120,6
+111960482,"Stuttgart","balcony",1328,2015,86,"lift + floor 2",2,1,"mint_condition",265,7
+111967798,"Waldshut_Kreis","both",432,1994,60,"no lift + floor 1",2.5,1,"well_kept",120,7
+111972181,"Stuttgart","balcony",1218,2015,74,"lift + floor 3",2,1,"mint_condition",258,7
+112146047,"Stuttgart","balcony",1240,1800,78,"no lift + floor 2",2.5,1,"well_kept",150,7
+112189387,"Stuttgart","none",1100,1993,45,"lift + floor 1",2,1,"refurbished",140,7
+112273185,"Waldshut_Kreis","none",985,2017,115.86,"no lift + floor 0",3,1,"mint_condition",85,6
+112313126,"Heidelberg","both",1200,1992,90.83,"no lift + floor 0",3,2,"well_kept",360,6
+112391490,"Waldshut_Kreis","balcony",1175,2018,109.5,"lift + floor 2",4.5,1,"first_time_use",330,6
+112412986,"Waldshut_Kreis","balcony",945,2017,90.1,"lift + floor 0",3.5,1,"mint_condition",270,7
+112587989,"Freiburg_im_Breisgau","both",1100,1983,75,"lift + floor 1",2.5,1,"fully_renovated",200,7
+112774494,"Breisgau_Hochschwarzwald_Kreis","both",500,1978,66,"no lift + floor 3",2,2,"well_kept",120,7
+112776776,"Schwäbisch_Hall_Kreis","balcony",500,1992,61,"lift + floor 1",2,1,"well_kept",230,7
+112817779,"Waldshut_Kreis","balcony",990,1995,104,"no lift + floor 2",3.5,2,"mint_condition",180,7
+112827227,"Schwäbisch_Hall_Kreis","balcony",505,1993,56.87,"no lift + floor 1",2,1,"well_kept",180,6
+112830293,"Enzkreis","balcony",900,2019,90,"lift + floor 2",3,1,"first_time_use",200,7
+112962171,"Ravensburg_Kreis","garden",670,1900,84,"no lift + floor 3",3,1,"well_kept",80,7
+112970179,"Göppingen_Kreis","balcony",1100,2019,91,"lift + floor 1",3,1,"first_time_use",150,7
+112981286,"Ostalbkreis","both",800,2019,70,"no lift + floor 1",3.5,1,"first_time_use",100,6
+113007485,"Pforzheim","balcony",790,1983,80,"no lift + floor 0",3,1,"well_kept",150,7
+113086906,"Freiburg_im_Breisgau","balcony",1681.47,2016,122.2,"lift + floor 4",4,2,"mint_condition",317.72,7
+113106614,"Waldshut_Kreis","balcony",975,1930,138,"no lift + floor 0",4,1,"fully_renovated",230,7
+113116388,"Esslingen_Kreis","both",990,2019,88.87,"lift + floor 0",3.5,1,"first_time_use",150,6
+113119258,"Ostalbkreis","balcony",850,2004,110,"no lift + floor 1",4.5,1,"mint_condition",210,6
+113206662,"Breisgau_Hochschwarzwald_Kreis","none",1100,2009,93,"lift + floor 1",3,1,"mint_condition",200,7
+113258038,"Ostalbkreis","both",1100,2019,70,"no lift + floor 2",3.5,1,"first_time_use",100,7
+113273432,"Bodenseekreis","balcony",1080,1998,150,"no lift + floor 2",4,1,"well_kept",250,6
+113308768,"Ludwigsburg_Kreis","both",1300,1964,125,"no lift + floor 1",5.5,1,"fully_renovated",325,6
+113313583,"Ludwigsburg_Kreis","balcony",1000,1954,104,"no lift + floor 1",4,1,"well_kept",200,7
+113324941,"Schwäbisch_Hall_Kreis","both",1050,2009,102,"lift + floor 0",4,1,"well_kept",210,7
+113339880,"Ostalbkreis","both",450,1958,53,"no lift + floor 3",2,1,"well_kept",100,7
+113386866,"Ravensburg_Kreis","balcony",900,2019,92.5,"lift + floor 2",4,2,"first_time_use",115,7
+113411432,"Breisgau_Hochschwarzwald_Kreis","both",750,1973,75,"lift + floor 3",2,1,"mint_condition",150,7
+113417080,"Stuttgart","balcony",980,1989,75,"no lift + floor 2",3.5,1,"well_kept",220,6
+113422937,"Heidelberg","balcony",800,1979,55,"lift + floor 1",2,1,"well_kept",190,7
+113427801,"Schwarzwald_Baar_Kreis","both",1180,2010,116,"no lift + floor 3",5,2,"mint_condition",280,7
+113428571,"Waldshut_Kreis","balcony",760,2016,84.13,"no lift + floor 3",3,1,"mint_condition",85,7
+113486116,"Stuttgart","balcony",1950,2016,143,"no lift + floor 5",4,1,"fully_renovated",360,6
+113489561,"Ostalbkreis","both",850,2001,97,"no lift + floor 1",4,2,"well_kept",110,7
+113490990,"Göppingen_Kreis","balcony",720,1984,65,"no lift + floor 0",2.5,1,"refurbished",120,7
+113492288,"Ravensburg_Kreis","balcony",910,2014,83.77,"lift + floor 2",3.5,1,"mint_condition",200,7
+113497562,"Breisgau_Hochschwarzwald_Kreis","balcony",1400,2020,98.03,"lift + floor 3",3.5,2,"first_time_use",234.25,6
+113506072,"Schwäbisch_Hall_Kreis","none",840,1994,98,"no lift + floor 1",3,1,"fully_renovated",70,7
+113511061,"Schwäbisch_Hall_Kreis","none",730,1994,86,"no lift + floor 2",3,1,"fully_renovated",70,6
+113525714,"Breisgau_Hochschwarzwald_Kreis","balcony",786.32,2019,56.57,"lift + floor 1",2,1,"first_time_use",158.4,6
+113583268,"Rems_Murr_Kreis","both",1310,2019,96.23,"lift + floor 1",4,1,"first_time_use",180,7
+113589724,"Waldshut_Kreis","none",575.3,1923,65.6,"no lift + floor 2",2,1,"well_kept",125,6
+113595150,"Göppingen_Kreis","balcony",990,2015,89.3,"lift + floor 1",3,1,"mint_condition",210,7
+113596488,"Stuttgart","both",2135,2018,95,"lift + floor 4",3,1,"first_time_use",330,6
+113601731,"Göppingen_Kreis","balcony",950,1967,97.8,"lift + floor 4",3.5,1,"well_kept",350,7
+113636677,"Göppingen_Kreis","balcony",480,1994,60,"no lift + floor 2",2,1,"well_kept",100,7
+113654898,"Esslingen_Kreis","balcony",1490,1970,125,"no lift + floor 2",4,0,"well_kept",290,6
+113666689,"Schwäbisch_Hall_Kreis","both",850,1955,115,"no lift + floor 2",4.5,3,"well_kept",170,7
+113667958,"Ludwigsburg_Kreis","both",1170,2005,99,"lift + floor 1",3,2,"well_kept",125,7
+113680618,"Stuttgart","both",2050,2014,106,"lift + floor 0",3.5,1,"mint_condition",250,7
+113684347,"Stuttgart","balcony",1600,2017,89,"lift + floor 0",3,1,"first_time_use",250,7
+113684681,"Göppingen_Kreis","none",900,1986,126,"no lift + floor 0",3.5,2,"well_kept",150,7
+113693267,"Ludwigsburg_Kreis","balcony",1850,1979,169,"no lift + floor 3",4,1,"refurbished",250,7
+113693699,"Göppingen_Kreis","both",700,1979,64,"no lift + floor 2",3.5,1,"well_kept",80,7
+113698099,"Ludwigsburg_Kreis","balcony",1310,2015,99.69,"lift + floor 1",4,1,"mint_condition",290,6
+113699657,"Rems_Murr_Kreis","balcony",1190,2009,113,"lift + floor 2",3,1,"mint_condition",250,7
+113710071,"Ludwigsburg_Kreis","garden",1054,1798,117,"no lift + floor 3",4,1,"refurbished",269.35,6
+113710981,"Ludwigsburg_Kreis","garden",690,1798,66,"no lift + floor 2",3,1,"refurbished",151.8,7
+113713959,"Ortenaukreis","both",1300,1920,150,"no lift + floor 2",5,2,"mint_condition",200,7
+113713972,"Konstanz_Kreis","balcony",920,2007,67.78,"lift + floor 1",2,1,"well_kept",180,7
+113721105,"Esslingen_Kreis","balcony",947,2019,72,"lift + floor 0",2,1,"first_time_use",128,7
+113734232,"Breisgau_Hochschwarzwald_Kreis","balcony",650,2019,54.24,"lift + floor 1",2,1,"first_time_use",147,7
+113736141,"Enzkreis","both",950,1983,98,"no lift + floor 2",5,1,"fully_renovated",220,7
+113739325,"Freiburg_im_Breisgau","balcony",1790,2006,130,"lift + floor 4",5,1,"mint_condition",200,7
+113748429,"Esslingen_Kreis","balcony",740,1997,83,"no lift + floor 1",3,1,"well_kept",240,7
+113755315,"Reutlingen_Kreis","none",530,1995,65,"no lift + floor 3",3,1,"well_kept",250,7
+113756601,"Schwarzwald_Baar_Kreis","balcony",1050,2012,113,"lift + floor 2",4.5,1,"mint_condition",220,6
+113757623,"Stuttgart","both",1100,1991,74,"no lift + floor 1",3,1,"well_kept",200,7
+113757915,"Konstanz_Kreis","balcony",900,1969,96,"lift + floor 4",4,1,"well_kept",200,7
+113759035,"Esslingen_Kreis","both",1070,1971,116,"no lift + floor 2",4,1,"refurbished",230,7
+113767796,"Stuttgart","balcony",1100,2019,53.73,"lift + floor 2",2,1,"first_time_use",170,7
+113770600,"Heidelberg","balcony",838,2019,72.5,"lift + floor 3",2,1,"mint_condition",182,7
+113786143,"Heidelberg","balcony",1358,2014,118,"lift + floor 4",3.5,1,"mint_condition",260,7
+113789166,"Rems_Murr_Kreis","balcony",1290,2013,121,"lift + floor 2",4,1,"mint_condition",290,6
+113790873,"Bodenseekreis","both",1020,2009,78,"lift + floor 0",2.5,1,"mint_condition",225,7
+113796920,"Pforzheim","none",1000,1980,113,"no lift + floor 2",4,1,"mint_condition",250,7
+113801259,"Schwarzwald_Baar_Kreis","balcony",700,1992,82,"no lift + floor 4",3.5,1,"mint_condition",90,6
+113806220,"Ortenaukreis","balcony",640,1974,64,"lift + floor 3",2,1,"mint_condition",120,7
+113808737,"Heidelberg","balcony",1550,2012,87,"lift + floor 2",3.5,1,"mint_condition",165,7
+113808939,"Stuttgart","both",590,1990,54.5,"no lift + floor 1",2,1,"fully_renovated",150,6
+113809416,"Rems_Murr_Kreis","none",870,2013,119,"no lift + floor 1",4,1,"mint_condition",150,7
+113812206,"Konstanz_Kreis","balcony",650,1985,64,"no lift + floor 1",2,1,"well_kept",200,7
+113814701,"Schwarzwald_Baar_Kreis","both",540,1972,60,"lift + floor 0",2,1,"well_kept",125,6
+113817744,"Waldshut_Kreis","balcony",750,1986,90,"no lift + floor 2",3,1,"well_kept",150,7
+113818558,"Schwäbisch_Hall_Kreis","balcony",790,2015,93,"lift + floor 1",4,2,"mint_condition",100,7
+113821297,"Esslingen_Kreis","both",1700,1905,136,"no lift + floor 3",5,1,"refurbished",180,7
+113825592,"Göppingen_Kreis","both",1230,2006,133,"no lift + floor 2",4.5,1,"well_kept",190,7
+113827606,"Freiburg_im_Breisgau","balcony",1500,1902,106,"no lift + floor 1",3,2,"well_kept",150,7
+113830403,"Enzkreis","both",850,1960,90,"no lift + floor 0",2,1,"well_kept",150,7
+113834651,"Ludwigsburg_Kreis","balcony",1190,2014,125,"lift + floor 5",3.5,2,"mint_condition",160,7
+113844955,"Waldshut_Kreis","balcony",930,2019,98,"lift + floor 2",3.5,2,"first_time_use",150,7
+113845801,"Ludwigsburg_Kreis","balcony",1090,2019,52.3,"lift + floor 1",2,1,"first_time_use",140,7
+113851424,"Stuttgart","balcony",2020,1884,96,"no lift + floor 3",3,1,"refurbished",150,7
+113853235,"Reutlingen_Kreis","both",750,1967,75,"no lift + floor 3",3,1,"well_kept",180,6
+113853551,"Breisgau_Hochschwarzwald_Kreis","balcony",520,1984,74,"no lift + floor 2",3,1,"refurbished",200,7
+113859999,"Ravensburg_Kreis","balcony",900,2019,112.5,"lift + floor 1",4,1,"first_time_use",150,7
+113861165,"Rems_Murr_Kreis","balcony",830,2019,57.28,"lift + floor 1",2,1,"first_time_use",200,6
+113865438,"Rems_Murr_Kreis","balcony",1275,2006,95,"lift + floor 1",3.5,1,"fully_renovated",225,6
+113867408,"Ravensburg_Kreis","both",1090,2019,91,"lift + floor 2",3,2,"first_time_use",190,7
+113868778,"Ortenaukreis","balcony",580,1996,72.45,"no lift + floor 3",2,2,"well_kept",200,7
+113872038,"Konstanz_Kreis","balcony",1400,2015,130,"lift + floor 4",4,1,"mint_condition",230,6
+114108228,"Esslingen_Kreis","none",1300,2007,190,"lift + floor 1",5,1,"mint_condition",350,6
+114184975,"Reutlingen_Kreis","both",1260,1985,118,"lift + floor 3",4.5,2,"mint_condition",295,7
+114197366,"Ortenaukreis","balcony",1130,2018,113.64,"lift + floor 3",4,2,"mint_condition",230,7
+114207393,"Rems_Murr_Kreis","balcony",1330,2019,101.96,"lift + floor 2",4,1,"first_time_use",330,7
+114279635,"Waldshut_Kreis","balcony",950,2018,88.6,"lift + floor 1",3.5,1,"mint_condition",270,7
+114313175,"Reutlingen_Kreis","both",1300,1972,160,"no lift + floor 2",7,1,"refurbished",390,7
+114324631,"Stuttgart","balcony",1893,2017,109,"lift + floor 6",4,1,"well_kept",164,7
+114506538,"Bodenseekreis","balcony",1440,1998,144,"no lift + floor 2",3.5,2,"mint_condition",150,7
+114547944,"Freiburg_im_Breisgau","both",1800,2019,100.66,"lift + floor 0",3,1,"first_time_use",250,7
+114566529,"Konstanz_Kreis","balcony",1810,1970,153,"lift + floor 5",3,1,"refurbished",330,7
+114667798,"Ortenaukreis","balcony",455,1991,62.5,"no lift + floor 1",2,1,"well_kept",120,6
+114689582,"Breisgau_Hochschwarzwald_Kreis","balcony",1300,2000,99,"no lift + floor 3",4,1,"mint_condition",240,7
+114695929,"Stuttgart","balcony",1250,2011,80,"lift + floor 4",3,1,"mint_condition",180,7
+114716475,"Breisgau_Hochschwarzwald_Kreis","balcony",1100,1999,100,"lift + floor 4",2,2,"mint_condition",150,7
+114789193,"Bodenseekreis","both",1000,2018,95,"no lift + floor 0",3,1,"first_time_use",100,7
+114794103,"Rastatt_Kreis","garden",812,1852,116,"no lift + floor 2",4,1,"fully_renovated",160,7
+114797355,"Bodenseekreis","balcony",1456,2016,112.76,"lift + floor 3",4,1,"mint_condition",250.8,7
+114828018,"Esslingen_Kreis","both",920,1962,96,"no lift + floor 0",3.5,1,"fully_renovated",190,6
+114945473,"Schwarzwald_Baar_Kreis","garden",1220,1990,209.89,"no lift + floor 1",6.5,1,"well_kept",275,6
+114945691,"Esslingen_Kreis","balcony",790,1994,80,"no lift + floor 3",4.5,1,"well_kept",140,6
+114967840,"Konstanz_Kreis","balcony",560,1976,55,"no lift + floor 1",2,1,"mint_condition",135,7
+115106022,"Bodenseekreis","balcony",1300,2019,140,"lift + floor 3",4.5,1,"first_time_use",180,7
+115132134,"Enzkreis","balcony",1150,2020,103,"lift + floor 3",3,2,"first_time_use",270,7
+115153044,"Konstanz_Kreis","both",1450,1980,113,"no lift + floor 1",4,1,"refurbished",150,7
+115216276,"Rems_Murr_Kreis","garden",650,1961,108,"no lift + floor 1",3.5,1,"well_kept",200,7
+115234245,"Breisgau_Hochschwarzwald_Kreis","balcony",1600,1994,156,"no lift + floor 1",4,1,"well_kept",200,7
+115235042,"Konstanz_Kreis","balcony",1750,2017,145.59,"lift + floor 4",4,1,"mint_condition",180,6
+115239507,"Enzkreis","balcony",1200,2020,120,"lift + floor 1",4,2,"first_time_use",200,7
+115250257,"Breisgau_Hochschwarzwald_Kreis","both",1100,2020,84.4,"lift + floor 1",3,2,"first_time_use",200,7
+115252794,"Heidelberg","balcony",1330,1976,103,"lift + floor 5",3,1,"well_kept",190,7
+115267025,"Konstanz_Kreis","balcony",1030,1989,121.4,"no lift + floor 2",3.5,1,"fully_renovated",300,7
+115271801,"Reutlingen_Kreis","both",1150,1978,97,"no lift + floor 3",4,1,"fully_renovated",270,7
+115308563,"Ravensburg_Kreis","none",1090,2020,91,"lift + floor 4",3,2,"first_time_use",250,7
+115358916,"Rems_Murr_Kreis","balcony",950,1995,82,"no lift + floor 3",3,1,"mint_condition",130,7
+115359788,"Göppingen_Kreis","balcony",950,1992,108,"no lift + floor 2",4.5,1,"well_kept",250,7
+115370074,"Heidelberg","balcony",1800,2019,125,"lift + floor 4",4,1,"first_time_use",250,7
+115387558,"Ludwigsburg_Kreis","both",860,1992,51,"no lift + floor 0",2,1,"well_kept",120,7
+115390935,"Breisgau_Hochschwarzwald_Kreis","balcony",950,1994,115,"no lift + floor 3",4.5,1,"mint_condition",320,6
+115397378,"Esslingen_Kreis","balcony",1200,2019,107,"lift + floor 3",3.5,1,"first_time_use",240,7
+115401220,"Pforzheim","balcony",865,2020,79.84,"lift + floor 0",2.5,1,"first_time_use",215,7
+115401452,"Pforzheim","balcony",865,2020,79.85,"lift + floor 0",2.5,1,"first_time_use",215,7
+115407704,"Ludwigsburg_Kreis","balcony",1200,1993,121,"no lift + floor 3",4,2,"fully_renovated",270,7
+115415438,"Konstanz_Kreis","balcony",460,1887,66.61,"no lift + floor 3",2.5,1,"well_kept",160,6
+115455039,"Esslingen_Kreis","balcony",1400,2020,105,"lift + floor 0",3.5,1,"first_time_use",200,7
+115474495,"Heidelberg","none",1900,1871,87,"lift + floor 1",2,1,"fully_renovated",190,7
+115484117,"Pforzheim","balcony",1030,2011,110,"lift + floor 1",4,1,"mint_condition",200,6
+115484324,"Ravensburg_Kreis","balcony",500,1994,62,"no lift + floor 2",3,1,"refurbished",70,7
+115484718,"Enzkreis","both",600,2004,75.28,"no lift + floor 1",3.5,1,"well_kept",120,7
+115486514,"Konstanz_Kreis","balcony",1250,2020,113,"lift + floor 2",3.5,1,"first_time_use",300,7
+115503444,"Konstanz_Kreis","none",690,2015,100,"no lift + floor 3",3,1,"mint_condition",170,6
+115506291,"Bodenseekreis","balcony",1104,2017,89,"lift + floor 0",3,1,"mint_condition",180,7
+115513383,"Schwäbisch_Hall_Kreis","both",875,2018,91,"lift + floor 1",3,1,"mint_condition",140,7
+115522406,"Ostalbkreis","balcony",610,2017,51,"no lift + floor 0",2,1,"mint_condition",50,6
+115522870,"Schwarzwald_Baar_Kreis","both",765,1956,85,"no lift + floor 0",2.5,1,"mint_condition",150,6
+115524664,"Göppingen_Kreis","balcony",1290,2019,86,"lift + floor 3",2,1,"first_time_use",150,7
+115530601,"Esslingen_Kreis","balcony",670,2005,60,"lift + floor 2",2,1,"mint_condition",150,7
+115530722,"Ostalbkreis","both",550,2019,60,"lift + floor 1",2.5,1,"first_time_use",150,7
+115531098,"Bodenseekreis","balcony",980,1995,90,"no lift + floor 1",3,1,"well_kept",200,7
+115533275,"Bodenseekreis","balcony",950,2019,84.61,"lift + floor 1",3,2,"first_time_use",240,6
+115534093,"Esslingen_Kreis","balcony",780,2001,52,"no lift + floor 1",2.5,1,"refurbished",100,7
+115545743,"Pforzheim","balcony",640,1972,71,"no lift + floor 1",2,1,"well_kept",180,7
+115546954,"Bodenseekreis","balcony",850,1983,60,"lift + floor 3",2,1,"well_kept",210,7
+115551343,"Stuttgart","balcony",975,1984,74.76,"lift + floor 5",2.5,1,"well_kept",185,7
+115557560,"Freiburg_im_Breisgau","both",1750,2004,130,"lift + floor 0",5,1,"well_kept",190,6
+115560375,"Ravensburg_Kreis","both",850,2020,101,"no lift + floor 0",4,1,"first_time_use",200,7
+115564610,"Konstanz_Kreis","none",590,1972,65,"no lift + floor 0",2,1,"mint_condition",64,6
+115567255,"Breisgau_Hochschwarzwald_Kreis","balcony",988,2020,76,"lift + floor 4",3,1,"first_time_use",200,7
+115568999,"Esslingen_Kreis","balcony",1130,2019,94,"lift + floor 2",3,1,"first_time_use",200,7
+115581694,"Ostalbkreis","balcony",1060,2000,114.48,"lift + floor 1",3.5,1,"well_kept",250,7
+115583150,"Stuttgart","balcony",1750,2012,147,"lift + floor 3",5,1,"mint_condition",300,7
+115585741,"Ravensburg_Kreis","balcony",780,2006,85,"no lift + floor 0",3,1,"well_kept",130,6
+115585765,"Breisgau_Hochschwarzwald_Kreis","balcony",1070,2012,107,"lift + floor 0",4,2,"mint_condition",300,7
+115585949,"Pforzheim","balcony",995,2020,95.3,"lift + floor 4",3.5,1,"first_time_use",235,7
+115589053,"Schwarzwald_Baar_Kreis","garden",650,1927,68,"no lift + floor 2",2.5,1,"fully_renovated",150,7
+115590196,"Rems_Murr_Kreis","both",1242,2006,104,"lift + floor 1",3,1,"mint_condition",100,7
+115590203,"Breisgau_Hochschwarzwald_Kreis","balcony",850,2020,50,"lift + floor 0",2,1,"first_time_use",300,7
+115595257,"Ortenaukreis","balcony",800,1999,78,"no lift + floor 3",3,1,"fully_renovated",150,7
+115595802,"Stuttgart","balcony",700,1978,62,"lift + floor 8",2,1,"well_kept",150,7
+115598486,"Freiburg_im_Breisgau","balcony",1410,2015,87,"lift + floor 1",3,1,"mint_condition",220,6
+115600152,"Ravensburg_Kreis","balcony",750,1966,89,"no lift + floor 2",4,1,"refurbished",200,7
+115600274,"Stuttgart","balcony",1150,1993,50,"no lift + floor 1",2,1,"well_kept",250,7
+115603257,"Ludwigsburg_Kreis","both",1750,2009,128,"lift + floor 0",5.5,2,"mint_condition",300,6
+115608771,"Freiburg_im_Breisgau","balcony",849,1998,66,"no lift + floor 2",2.5,1,"well_kept",137,6
+115610290,"Göppingen_Kreis","balcony",950,1997,97.88,"no lift + floor 2",5.5,1,"well_kept",200,7
+115614315,"Waldshut_Kreis","balcony",729,2014,73,"no lift + floor 1",2,2,"mint_condition",140,7
+115616347,"Reutlingen_Kreis","balcony",640,1990,85,"no lift + floor 2",4,1,"well_kept",180,6
+115617335,"Heidelberg","garden",1590,2019,89.47,"lift + floor 2",3,1,"first_time_use",270,6
+115618087,"Göppingen_Kreis","balcony",550,1991,53,"no lift + floor 1",2.5,1,"well_kept",150,7
+115619274,"Ostalbkreis","balcony",900,1970,110,"no lift + floor 1",4,2,"refurbished",130,6
+115621630,"Bodenseekreis","garden",590,2001,84,"no lift + floor 1",2.5,1,"well_kept",200,7
+115622756,"Reutlingen_Kreis","balcony",1050,2016,94.28,"lift + floor 4",2.5,1,"mint_condition",200,7
+115626473,"Bodenseekreis","balcony",670,2014,72,"lift + floor 1",2,1,"mint_condition",290,7
+115631661,"Stuttgart","none",1175,1970,55,"lift + floor 1",2,1,"well_kept",200,7
+115637380,"Konstanz_Kreis","balcony",520,1962,50,"no lift + floor 3",2,1,"well_kept",120,6
+115638041,"Ostalbkreis","balcony",680,2018,56.36,"lift + floor 3",2,1,"mint_condition",160,6
+115640914,"Pforzheim","balcony",1000,2020,74,"lift + floor 3",3.5,1,"first_time_use",220,7
+115646066,"Bodenseekreis","both",1400,2016,73,"lift + floor 0",2,2,"mint_condition",170,6
+115647943,"Ortenaukreis","both",900,1974,105,"no lift + floor 3",4,2,"well_kept",190,6
+115651036,"Rems_Murr_Kreis","balcony",980,1998,104,"no lift + floor 3",4,1,"well_kept",280,6
+115654903,"Stuttgart","garden",1150,1960,68,"no lift + floor 2",3,0,"refurbished",130,7
+115658090,"Rems_Murr_Kreis","balcony",900,1994,83,"lift + floor 3",3.5,2,"fully_renovated",200,7
+115658283,"Waldshut_Kreis","none",500,1968,65,"no lift + floor 3",3,1,"refurbished",140,7
+115660269,"Ostalbkreis","both",950,1989,96,"no lift + floor 1",3,1,"well_kept",130,7
+115660958,"Freiburg_im_Breisgau","both",1450,2009,106,"lift + floor 2",4,2,"mint_condition",250,7
+115663429,"Rems_Murr_Kreis","none",1225,1994,95,"no lift + floor 1",3,1,"mint_condition",160,6
+115665770,"Konstanz_Kreis","balcony",680,1984,54,"lift + floor 3",2,1,"fully_renovated",150,7
+115667713,"Göppingen_Kreis","both",470,1993,60,"no lift + floor 0",2.5,1,"well_kept",160,7
+115668885,"Rems_Murr_Kreis","balcony",850,1969,103.46,"lift + floor 7",3.5,1,"well_kept",330,7
+115673830,"Freiburg_im_Breisgau","both",1600,2000,118,"no lift + floor 1",4,1,"well_kept",300,7
+115675656,"Schwarzwald_Baar_Kreis","balcony",890,2003,88,"lift + floor 1",3,1,"mint_condition",212,7
+115678730,"Breisgau_Hochschwarzwald_Kreis","balcony",590,2019,45,"lift + floor 2",2,1,"first_time_use",120,7
+115694779,"Bodenseekreis","balcony",1450,2018,212,"no lift + floor 0",4,1,"mint_condition",220,7
+115696367,"Ortenaukreis","balcony",1200,2017,125,"lift + floor 4",3,2,"mint_condition",200,7
+115707983,"Esslingen_Kreis","both",750,1995,64,"no lift + floor 0",2,1,"fully_renovated",140,7
+115711038,"Ortenaukreis","both",630,2018,73.4,"lift + floor 2",1.5,1,"mint_condition",188,7

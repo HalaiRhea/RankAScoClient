@@ -1,5 +1,5 @@
 import {Link} from 'react-router-dom'
-import {numericalRome, categoricalRome } from "./HelperComponents";
+import {numericalRome, categoricalRome, numericalStuttgart, categoricalStuttgart } from "./HelperComponents";
 
 // Check which browser user has
 var Chrome = window.navigator.userAgent.indexOf('Chrome') !== -1
@@ -45,7 +45,21 @@ const Home = () => {
                                 filename: 'Rome'
                             }
                         }}>
-                        <button className='button button-home'>Rome Dataset</button>
+                         <button className='button button-home' style={{ marginRight: '20px' }}>Rome Dataset</button>
+                    </Link>
+                    <Link
+                        to={{
+                            pathname: '/dataLoading',
+                            state: {
+                                result: [],
+                                selectedAttributes: [],
+                                options: {},
+                                categorical: categoricalStuttgart,
+                                numerical: numericalStuttgart,
+                                filename: 'Stuttgart'
+                            }
+                        }}>
+                        <button className='button button-home'>Stuttgart Dataset</button>
                     </Link>
                 </div>
             </div>

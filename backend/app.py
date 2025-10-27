@@ -8,6 +8,8 @@ CORS(app)
 def get_data(filename):
     if filename == "Rome":
         return send_from_directory("data", "rome-aribnb-data_small_noHostSince.csv")
+    elif filename == "Stuttgart":
+        return send_from_directory("data", "stuttgart_data.csv")
     else:
         abort(404)
 

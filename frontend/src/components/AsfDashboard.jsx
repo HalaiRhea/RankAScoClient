@@ -12,10 +12,10 @@ class ASFDashboard extends React.Component {
         this.state = {
             ranking: ranking,
             attributes: [
-                'bedrooms',
-                'bathrooms',
-                'price',
-                'review_scores_rating'
+                'baseRent',
+                'yearConstructed',
+                'livingSpace',
+                'noRooms'
             ],
             functions: [
                 'Linear',
@@ -31,7 +31,7 @@ class ASFDashboard extends React.Component {
         return ranking.map((item, index) => ({
             rank: index + 1,
             value: parseFloat(item[attribute]),
-            id: item.id
+            id: item.itemId
         }));
     }
 
@@ -187,13 +187,11 @@ class ASFDashboard extends React.Component {
                         domain={[5, 1]}
                         tickCount={5}
                         reversed={true}
-                        label={{ value: "Preference", position: "insideBottomRight", offset: -5 }}
                     />
                     <YAxis
                         type="number"
                         dataKey="value"
                         name={attribute}
-                        label={{ value: attribute, angle: -90, position: "insideLeft" }}
                     />
                     <Tooltip cursor={{ strokeDasharray: '3 3' }} />
                     <Scatter name={attribute} data={data} fill="#8884d8" />
@@ -237,7 +235,7 @@ class ASFDashboard extends React.Component {
                                     boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
                                 }}
                             >
-                                <strong>ID:</strong> {item.id}
+                                <strong>ID:</strong> {item.itemId}
                             </li>
                         ))}
                     </ol>
