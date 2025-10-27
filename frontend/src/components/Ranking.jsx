@@ -7,17 +7,15 @@ class Ranking extends React.Component {
     constructor(props) {
         super(props);
 
-        const allData = (this.props.location.state?.data || []).filter(item => item.itemId !== undefined);
-        const sampleSize = Math.min(5, allData.length);
-        const shuffled = allData.sort(() => 0.5 - Math.random());
-        const selected = shuffled.slice(0, sampleSize);
+        const allData = this.props.location.state?.data || [];
 
         this.state = {
-            items: selected.map((item, index) => ({
-                ...item,
-                key: `${item.itemId}-${index}`
-            })),
+        items: allData.map((item, index) => ({
+            ...item,
+            key: `${item.itemId}-${index}`,
+        })),
         };
+
 
         this.onDragEnd = this.onDragEnd.bind(this);
         this.navigateNext = this.navigateNext.bind(this);

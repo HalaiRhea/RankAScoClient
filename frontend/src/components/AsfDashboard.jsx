@@ -2,6 +2,7 @@ import React from 'react';
 import {
     ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, Line, ResponsiveContainer
 } from 'recharts';
+import { Link } from "react-router-dom";
 
 class ASFDashboard extends React.Component {
     constructor(props) {
@@ -212,6 +213,22 @@ class ASFDashboard extends React.Component {
         const { ranking, attributes, functions } = this.state;
 
         return (
+            <>
+            <div className='largeHeader'>
+                    <h1 style={{display: 'inline'}}>ASF Dashboard</h1>
+                    <div style={{ display: 'inline', float: 'right', marginRight: '5%' }}>
+                        <Link
+                            to={{
+                            pathname: '/ranking',
+                            state: {
+                                data: this.props.location.state?.ranking || [],
+                            },
+                            }}
+                        >
+                            <button className='nextButton button' type="button">Back</button>
+                        </Link>
+                    </div>
+                </div>
             <div style={{ display: 'flex', minHeight: '100vh' }}>
                 <div
                     style={{
@@ -242,7 +259,6 @@ class ASFDashboard extends React.Component {
                 </div>
 
                 <div style={{ flexGrow: 1, padding: '2rem' }}>
-                    <h1>ASF Dashboard</h1>
                     <div style={{ overflowX: 'auto', marginTop: '2rem' }}>
                         <table
                             style={{
@@ -311,6 +327,7 @@ class ASFDashboard extends React.Component {
                     </div>
                 </div>
             </div>
+        </>
         );
     }
 }

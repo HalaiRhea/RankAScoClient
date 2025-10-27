@@ -137,25 +137,41 @@ class DataLoading extends React.Component {
                         className='nextButton button'
                         type="button"
                         onClick={() => {
-                        const filename = this.props.location.state.filename;
-                        const targetPath = filename === "Rome" ? "/datasetAttributes"
-                                        : filename === "Stuttgart" ? "/ranking"
-                                        : "/home"; // optional default fallback
+                            const filename = this.props.location.state.filename;
+                            let targetPath = "/home";
+                            let targetState = {};
 
-                        const targetState = {
-                            data: this.state.dataSet,
-                            categorical: this.props.location.state.categorical,
-                            numerical: this.props.location.state.numerical,
-                            overallResult: this.state.dataSet.map(d => ({ id: d.id ?? d.itemId })),
-                            selectedAttributes: [],
-                            options: {},
-                        };
+                            if (filename === "Rome") {
+                                targetPath = "/datasetAttributes";
+                                targetState = {
+                                    data: this.state.dataSet,
+                                    categorical: this.props.location.state.categorical,
+                                    numerical: this.props.location.state.numerical,
+                                    overallResult: this.state.dataSet.map(d => ({ id: d.id ?? d.itemId })),
+                                    selectedAttributes: [],
+                                    options: {},
+                                };
+                            } 
+                            else if (filename === "Stuttgart") {
+                                targetPath = "/ranking";
 
-                        this.props.history.push({ pathname: targetPath, state: targetState });
+                                const allData = this.state.dataSet.filter(item => item.itemId !== undefined);
+                                const shuffled = allData.sort(() => 0.5 - Math.random());
+                                const selected = shuffled.slice(0, 5);
+
+                                targetState = {
+                                    data: selected,
+                                    categorical: this.props.location.state.categorical,
+                                    numerical: this.props.location.state.numerical,
+                                };
+                            }
+
+                            this.props.history.push({ pathname: targetPath, state: targetState });
                         }}
-                    >
+                        >
                         Next
                     </button>
+
                     </div>
                 </div>
                 <div style={{display: 'inline'}}>
