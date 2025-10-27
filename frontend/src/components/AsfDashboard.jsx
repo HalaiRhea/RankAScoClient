@@ -3,6 +3,8 @@ import {
     ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, Line, ResponsiveContainer
 } from 'recharts';
 import { Link } from "react-router-dom";
+import { DragDropContext, Droppable, Draggable } from 'react-beautiful-dnd';
+
 
 class ASFDashboard extends React.Component {
     constructor(props) {
@@ -10,8 +12,10 @@ class ASFDashboard extends React.Component {
 
         const ranking = (this.props.location.state?.ranking || []);
 
+        const reversedRanking = [...ranking].reverse();
+
         this.state = {
-            ranking: ranking,
+            ranking: reversedRanking,
             attributes: [
                 'baseRent',
                 'yearConstructed',
@@ -26,6 +30,17 @@ class ASFDashboard extends React.Component {
             ],
         };
     }
+
+    onDragEnd = (result) => {
+        if (!result.destination) return;
+
+        const items = Array.from(this.state.ranking);
+        const [movedItem] = items.splice(result.source.index, 1);
+        items.splice(result.destination.index, 0, movedItem);
+
+        this.setState({ ranking: items });
+    };
+
 
     getScatterData(attribute) {
         const { ranking } = this.state;
@@ -176,6 +191,14 @@ class ASFDashboard extends React.Component {
             'Discontinuous': '#cc0000',
         };
 
+        const values = data.map(d => d.value).filter(v => v !== null && !isNaN(v));
+        const minY = Math.min(...values);
+        const maxY = Math.max(...values);
+        const range = maxY - minY || 1;
+        const padding = range * 0.05;
+        const domain = [minY - padding, maxY + padding];
+
+
 
         return (
             <div style={{ width: '200px', height: '150px' }}>
@@ -193,6 +216,8 @@ class ASFDashboard extends React.Component {
                         type="number"
                         dataKey="value"
                         name={attribute}
+                        domain={domain}
+                        tickFormatter={(tick) => Math.round(tick)}
                     />
                     <Tooltip cursor={{ strokeDasharray: '3 3' }} />
                     <Scatter name={attribute} data={data} fill="#8884d8" />
@@ -239,23 +264,48 @@ class ASFDashboard extends React.Component {
                     }}
                 >
                     <h2 style={{ marginBottom: '1rem' }}>Ranking</h2>
-                    <ol style={{ listStyleType: 'decimal', paddingLeft: '1.5rem' }}>
-                        {ranking.reverse().map((item, index) => (
-                            <li
-                                key={index}
-                                style={{
-                                    backgroundColor: 'white',
-                                    border: '1px solid #ddd',
-                                    borderRadius: '8px',
-                                    padding: '0.5rem',
-                                    marginBottom: '0.5rem',
-                                    boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
-                                }}
+                    <DragDropContext onDragEnd={this.onDragEnd}>
+                        <Droppable droppableId="rankingList">
+                        {(provided) => (
+                            <ol
+                            style={{ listStyleType: 'decimal', paddingLeft: '1.5rem' }}
+                            ref={provided.innerRef}
+                            {...provided.droppableProps}
                             >
-                                <strong>ID:</strong> {item.itemId}
-                            </li>
-                        ))}
-                    </ol>
+                            {ranking.map((item, index) => (
+                                <Draggable key={item.itemId} draggableId={`${item.itemId}`} index={index}>
+                                {(provided) => (
+                                    <li
+                                    ref={provided.innerRef}
+                                    {...provided.draggableProps}
+                                    {...provided.dragHandleProps}
+                                    style={{
+                                        backgroundColor: 'white',
+                                        border: '1px solid #ddd',
+                                        borderRadius: '8px',
+                                        padding: '0.5rem',
+                                        marginBottom: '0.5rem',
+                                        boxShadow: '0 1px 3px rgba(0,0,0,0.1)',
+                                        ...provided.draggableProps.style,
+                                    }}
+                                    >
+                                    <strong>ID:</strong> {item.itemId}
+                                    <div style={{ marginTop: '0.25rem', fontSize: '0.85rem', lineHeight: '1.2' }}>
+                                        <div><strong>baseRent:</strong> {item.baseRent}</div>
+                                        <div><strong>yearConstructed:</strong> {item.yearConstructed}</div>
+                                        <div><strong>livingSpace:</strong> {item.livingSpace}</div>
+                                        <div><strong>noRooms:</strong> {item.noRooms}</div>
+                                    </div>
+                                    </li>
+                                )}
+                                </Draggable>
+                            ))}
+                            {provided.placeholder}
+                            </ol>
+                        )}
+                        </Droppable>
+                    </DragDropContext>
+
                 </div>
 
                 <div style={{ flexGrow: 1, padding: '2rem' }}>
